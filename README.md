@@ -9,3 +9,36 @@ Applying appropriate thresholds on these probabilities, an "emojified" image is 
 6. Right eyed frowning wink
 7. Closed eyes smile
 8. Closed eyes frown
+
+##### Emojify me
+<br/>
+
+<p align="center">
+<img src="docs/images/Screenshot_2018-12-18-23-06-37-802_com.example.android.emojify.png" alt="Emojify" width="250"/>
+</p>
+
+<br/>
+
+##### Image clicked to be emojified
+<br/>
+
+<p align="center">
+<img src="docs/images/Screenshot_2018-12-19-00-22-56-907_com.android.camera.png" alt="Image" width="250"/>
+</p>
+<br/>
+
+##### Image processing
+<br/>
+
+<p align="center">
+<img src="docs/images/Screenshot_2018-12-19-00-17-55-342_com.example.android.emojify.png" alt="Processing" width="250"/>
+</p>
+<br/>
+
+## Emojified image
+<br/>
+
+<p align="center">
+<img src="docs/images/Screenshot_2018-12-19-00-24-14-773_com.example.android.emojify.png" alt="Danger Index" width="250"/>
+</p>
+<br/>
